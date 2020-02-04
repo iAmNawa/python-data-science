@@ -1,6 +1,8 @@
 paulpython
 ==============================
 
+Data science projects will go here
+
 A short description of the project.
 
 Project Organization
