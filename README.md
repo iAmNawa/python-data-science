@@ -2,6 +2,7 @@ paulpython
 ==============================
 
 Data science projects will go here
+Frame the problem, Extract, Organize, Analyze and Model, Present
 
 A short description of the project.
 
